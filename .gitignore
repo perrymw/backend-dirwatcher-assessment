@@ -1,0 +1,5 @@
+.vscode/
+coverage/
+*.log
+*.txt
+.env
